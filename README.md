@@ -1,4 +1,4 @@
 SIC/XEAssem
 ==========
 
-SICXC assembler in python
+SIC/XE assembler in python
